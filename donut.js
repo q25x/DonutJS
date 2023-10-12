@@ -1,7 +1,7 @@
 
                var cn=process.stdout,s=Math.sin,
           sh=cn.rows,sw=cn.columns,ss=sh*sw,s=Math.sin,
-       c=Math.cos,ts=7,ps=2,cs=".,-~:;=!*#$@",R1=10,R2=20,                  //    Problem, JavaScript?
+       c=Math.cos,ts=7,ps=2,cs=".,-~:;=!*#$@",R1=10,R2=20,                  //       Problem, code readers?
     K2=50,K1=sh*K2*3/(8*(R1+R2)),A=0,B=0,us = () => {console.               //⠀⠀⠀ ⠀⠀⠀⢀⣤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⢤⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀
    clear();var o=new Array            (ss).fill(" "),zb=new                 //⠀⠀⠀ ⠀⢀⡼⠋⠀⣀⠄⡂⠍⣀⣒⣒⠂⠀⠬⠤⠤⠬⠍⠉⠝⠲⣄⡀⠀⠀
    Array(ss).fill(0);for(              var th=0;th<628;th+=ts)              //⠀⠀⠀ ⢀⡾⠁⠀⠊⢔⠕⠈⣀⣀⡀⠈⠆⠀⠀⠀⡍⠁⠀⠁⢂⠀⠈⣷⠀⠀

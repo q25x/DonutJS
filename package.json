@@ -4,7 +4,8 @@
   "description": "donut js poorly made by omega",
   "main": "main.js",
   "scripts": {
-    "test": "node .\\main.js"
+    "test": "node .\\main.js",
+    "donut": "node .\\donut.js"
   },
   "keywords": [
     "donut"
