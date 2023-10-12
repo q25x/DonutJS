@@ -1,0 +1,14 @@
+{
+  "name": "donutjs",
+  "version": "1.0.0",
+  "description": "donut js poorly made by omega",
+  "main": "main.js",
+  "scripts": {
+    "test": "node .\\main.js"
+  },
+  "keywords": [
+    "donut"
+  ],
+  "author": "Omega-3",
+  "license": "ISC"
+}
