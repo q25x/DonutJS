@@ -35,7 +35,7 @@ function updateScreen() {
       let y_projected = parseInt(screen_height / 2 - K1 * ooz * y);
       
       let pos = x_projected + screen_width * y_projected;
-      
+      ``
       let Luminance = cp * ct * sB - cA * ct *sp - sA * st + cB * (cA * st - ct * sA * sp);
       if( ooz > z_buffer[pos]) {
         z_buffer[pos] = ooz;

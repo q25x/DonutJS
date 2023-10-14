@@ -1,3 +1,6 @@
+//                               || 
+//             D  O  N  U  T     V
+//
 
                var cn=process.stdout,s=Math.sin,
           sh=cn.rows,sw=cn.columns,ss=sh*sw,s=Math.sin,
